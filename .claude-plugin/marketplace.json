@@ -1,0 +1,5 @@
+{
+  "name": "desktop-local-plugins",
+  "owner": { "name": "Local" },
+  "plugins": [{ "name": "desktop-usage-bar", "source": "./" }]
+}

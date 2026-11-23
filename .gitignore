@@ -1,0 +1,9 @@
+/tests/
+/.claude/
+/.claude-plugin/types/
+/node_modules/
+.env
+.env.*
+*.log
+Thumbs.db
+.DS_Store

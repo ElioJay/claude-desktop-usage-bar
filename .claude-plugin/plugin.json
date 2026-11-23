@@ -1,0 +1,6 @@
+{
+  "name": "desktop-usage-bar",
+  "version": "0.3.3",
+  "description": "在 Claude Desktop Code 输入框上方显示会话用量。",
+  "types": "./types/index.d.ts"
+}
